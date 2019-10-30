@@ -3,11 +3,11 @@ Transfer any type of file using this Trivial File Transfer Protocol. The Client 
 
 To get some file from Server
 Type:
-connect <IP_ADDRESS OF SERVER>
-get <SOME_FILE>
+connect <IP_ADDRESS OF SERVER> and in next line
+:get <SOME_FILE>
 
 
 To put some file onto the Server
 Type:
-connect <IP_ADDRESS OF SERVER>
+connect <IP_ADDRESS OF SERVER> and in next line:
 put <SOME_FILE>
